@@ -1,0 +1,1 @@
+package {% cookiecutter.service_name %}
